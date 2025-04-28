@@ -21,7 +21,11 @@ body {
   font-style: normal;
 }
 
-
+.skill-icon {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
 
 
 .poppins-thin {
